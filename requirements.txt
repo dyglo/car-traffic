@@ -1,0 +1,31 @@
+# Computer Vision & Deep Learning Stack
+cvzone==1.6.1
+ultralytics==8.3.221
+opencv-python==4.10.0.84
+
+# PyTorch Ecosystem (stable)
+torch==2.5.1
+torchvision==0.20.1
+
+# ML Utilities
+hydra-core==1.3.2
+
+# Scientific Computing (pinned for stability)
+numpy==1.26.4  # Last stable before 2.0
+scipy==1.13.1
+matplotlib==3.9.2
+
+# Image Processing
+Pillow==10.4.0
+scikit-image==0.24.0
+
+# Tracking & Filters
+filterpy==1.4.5
+
+# Utilities
+PyYAML==6.0.2
+requests==2.32.3
+tqdm==4.66.5
+
+# GUI
+customtkinter==5.2.2

@@ -1,0 +1,30 @@
+# Python cache & virtual envs
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Model weights & datasets
+*.pt
+*.onnx
+*.engine
+
+# Generated outputs
+result.mp4
+result_*.mp4
+
+# Allow sample assets under ./assets (unignore if pattern above matches)
+!assets/**
